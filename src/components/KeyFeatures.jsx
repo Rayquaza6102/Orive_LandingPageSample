@@ -8,7 +8,7 @@ import tap from "../images/tap.svg";
 
 function KeyFeatures(){
    return (
-       <div style={{backgroundColor:"grey"}}>
+       <div style={{backgroundColor:"rgb(247, 247, 247)"}}>
          <h1 style={{textAlign:"center",color:"#0D2381",fontSize:"45px",marginTop:"70px"}}>Key Features of MyNapier</h1>
          <div className='container' style={{textAlign:"center",marginTop:"100px",marginBottom:"100px"}}>
             <div className='row'>
